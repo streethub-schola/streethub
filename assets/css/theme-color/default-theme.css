@@ -3,6 +3,10 @@
 Template Design By MarkUps.
 Author URI : http://www.markups.io/
 ========================================*/
+/* 
+Our Light Green Variant is #71be44
+*/
+
 .scrollToTop {
   background-color: #01bafd;
   border: 2px solid #01bafd;
@@ -19,15 +23,15 @@ Author URI : http://www.markups.io/
 }
 
 #mu-header .mu-header-area .mu-header-top-right .mu-top-social-nav li a:hover, #mu-header .mu-header-area .mu-header-top-right .mu-top-social-nav li a:focus {
-  color: #01bafd;
+  color: #71be45;
 }
 
 #mu-menu .navbar-header .navbar-brand i {
   color: #01bafd;
 }
 #mu-menu .navbar-default .navbar-nav li > a:hover, #mu-menu .navbar-default .navbar-nav li > a:focus {
-  border-color: #01bafd;
-  color: #01bafd;
+  border-color: #71be44;
+  color: #71be44;
 }
 #mu-menu .navbar-default .navbar-nav li .dropdown-menu {
   border-top: 2px solid #01bafd;
@@ -40,8 +44,8 @@ Author URI : http://www.markups.io/
 }
 
 #mu-menu .navbar-default .navbar-nav > .active > a, #mu-menu .navbar-default .navbar-nav > .active > a:hover, #mu-menu .navbar-default .navbar-nav > .active > a:focus {
-  color: #01bafd;
-  border-bottom: 2px solid #01bafd;
+  color: #ffffff;
+  border-bottom: 2px solid #ffffff;
   background-color: transparent;
 }
 
